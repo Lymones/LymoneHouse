@@ -1,8 +1,19 @@
 ﻿#include <stdio.h>
 #include <easyx.h>
 #include "Snake.h"
+#include <windows.h>
 
 char map[20][20];
+/*Wall-Head-Apple-Snake*/
+ExMessage m;
+
+char Nextstep;
+/*Up-Down-Left-Right*/
+int times = 4;
+int delay = 100;
+
+int snakelength=1;
+
 void initMap()
 {
     for (int xi = 0; xi < 20; xi++)
@@ -13,20 +24,74 @@ void initMap()
     return;
 }
 
-//Head Snake Wall Apple
 //block 25*25
 void testData();
+void consolLoaded()
+{
+    #ifdef DEBUG
+    printf("==ConsolLoaded==\n");
+    #endif // DEBUG  
+    return;
+}
 
 int main()
 {
+/*==初始化==*/
+    #ifdef DEBUG
     initgraph(700, 505, EW_SHOWCONSOLE);
-    printf("==ConsolLoaded==\n");
-    
-    LSD::drawNet();
-    testData();
-    LSD::drawMap();
+    consolLoaded();
+    #else
+    initgraph(700, 505);
+    #endif // DEBUG
 
-    getchar();
+    LSD::drawNet();
+    LSD::drawTitle();
+
+    #ifdef DEBUG_TESTDATA
+    testData();
+    #endif // DEBUG_TESTDATA
+    LSC::initrand();
+    LSC::randhead();
+    LSC::randapple();
+    LSD::drawMap();
+/*开始*/
+    while (true)
+    {
+        //输入检定
+        for (int i = 0; i < times; i++)
+        {
+            if (LSC::directionCheck())
+            {
+                return 0;
+            }
+            #ifdef DEBUG
+            printf("%c", Nextstep);
+            #endif // DEBUG
+            Sleep(10);
+        }
+        #ifdef DEBUG
+        printf("\n");
+        #endif // DEBUG
+        
+        //死亡检定
+        if (LSC::deathCheck())
+        {
+            LSD::drawdeath();
+            m = getmessage();
+            return 0;
+        }
+        else
+        {
+            //移动
+            LSC::lengthCheck();
+            LSD::drawScore(snakelength);
+            //cleardevice();
+            //LSD::drawNet();
+            LSD::drawMap();
+        }
+        Sleep(delay*times);
+    }//main while
+
 
     closegraph();//关闭绘图窗口
     return 0;

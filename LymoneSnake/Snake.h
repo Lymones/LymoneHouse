@@ -1,12 +1,21 @@
 
+//#define DEBUG
+//#define DEBUG_TESTDATA
+
 #ifndef SNAKEDRAW_H
 #define SNAKEDRAW_H
 
 namespace LSD
 {
+	/*棋盘绘制*/
 	void drawNet();
 	void drawMap();
 	void cleanmap();
+	/*文字绘制*/
+	void drawTitle();
+	void drawScore(int score);
+	/*特殊画面*/
+	void drawdeath();
 }
 
 #endif 
@@ -17,7 +26,17 @@ namespace LSD
 
 namespace LSC
 {
+	/*Random*/
+	void initrand(int);
+	void initrand();
 	void randapple();
+	void randhead();
+	/*Check*/
+	void initwall();
+	bool directionCheck();
+	bool deathCheck();
+	bool lengthCheck();
+
 }
 
 #endif
@@ -29,7 +48,7 @@ namespace LSC
 class sNode
 {
 public:
-	short x, y;
+	int x, y;
 	sNode* snext;
 };
 
@@ -39,8 +58,8 @@ class Linkqueue
 	//删尾加头 
 public:
 	void initQ();
-	void enQ(short xx, short yy);
-	bool deQ();
+	void enQ(sNode);
+	sNode deQ();
 	void destoryQ();
 	void printQ();//devOnly 
 	short countQ();

@@ -1,13 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
-	
-	int el=10,f1,f2;
-	f1=++el*10;
-	f2=el++*10;
-	cout<<f1<<endl
-		<<f2<<endl
-		<<el<<endl; 
-	return 0;
- } 
+    int x1,y1,z1,x2,y2,z2;
+    cin>>x1>>y1>>z1>>x2>>y2>>z2;
+    cout << (x2-x1)*3600+(y2-y1)*60+z2-z1<< endl;
+    return 0;
+} 

@@ -11,26 +11,32 @@ void Linkqueue::initQ()
 	p->snext = NULL;
 	return;
 }
-void Linkqueue::enQ(short xx, short yy)
+void Linkqueue::enQ(sNode node)
 {
 	sNode* p = new sNode;
-	p->x = xx;
-	p->y = yy;
+	p->x = node.x;
+	p->y = node.y;
 	rear->snext = p;
 	rear = p;
-	p->x = xx;
-	p->y = yy;
+	p->x = node.x;
+	p->y = node.y;
 	return;
 }
-bool Linkqueue::deQ()
+sNode Linkqueue::deQ()
 {
+	sNode rearNode;
 	if (rear == front)
-		return false;
+	{
+		rearNode.x = -1;
+		rearNode.y = -1;
+	}
 	sNode* p;
 	p = front->snext;
 	front->snext = p->snext;
+	rearNode.x = p->x;
+	rearNode.y = p->y;
 	delete p;
-	return true;
+	return rearNode;
 }
 void Linkqueue::destoryQ()
 {

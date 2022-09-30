@@ -7,7 +7,11 @@ extern char map[20][20];
 
 void LSD::drawNet()
 {
+#ifdef DEBUG
     printf("PrintNet\n");
+#endif // DEBUG
+
+
     setlinecolor(0xFFFFFF);
     for (int i = 0; i <= 20; i++)
         line(25 * i, 0, 25 * i, 500);
@@ -18,7 +22,11 @@ void LSD::drawNet()
 
 void LSD::drawMap()
 {
+#ifdef DEBUG
     printf("PrintMap\n");
+#endif // DEBUG
+
+
     for (int xi = 0; xi < 20; xi++)
         for (int yi = 0; yi < 20; yi++)
         {
@@ -64,5 +72,40 @@ void LSD::cleanmap()
             if (map[xi][yi] == 'H')
                 map[xi][yi] = 0;
         }
+    return;
+}
+
+void LSD::drawdeath()
+{
+    settextcolor(0x0000FF);
+    settextstyle(40, 40, L"Minecraft");
+    printf("WASTED\n");
+    RECT r = { 0, 0, 699, 504 };
+    drawtext(_T("WASTED"), &r, DT_CENTER | DT_VCENTER | DT_SINGLELINE);
+    
+    return;
+}
+void LSD::drawTitle()
+{
+    settextcolor(0xFFFFFF);
+    settextstyle(14, 14, L"Minecraft");
+    RECT r = { 500, 10, 699, 30 };
+    drawtext(_T("LymoneSnake"), &r, DT_CENTER | DT_VCENTER | DT_SINGLELINE);
+    r = { 500, 30, 699, 50 };
+    drawtext(_T("按↑↓←→开始"), &r, DT_CENTER | DT_VCENTER | DT_SINGLELINE);
+    settextstyle(20, 20, L"Minecraft");
+    r = { 500, 50, 699, 90 };
+    drawtext(_T("当前分数："), &r, DT_CENTER | DT_VCENTER | DT_SINGLELINE);
+    return;
+}
+void LSD::drawScore(int score)
+{
+    TCHAR s[5];
+    _stprintf_s(s, _T("%d"), score);
+
+    settextcolor(0xFFFFFF);
+    settextstyle(30, 30, L"Minecraft");
+    RECT r = { 500, 90, 699, 140 };
+    drawtext(s, &r, DT_CENTER | DT_VCENTER | DT_SINGLELINE);
     return;
 }

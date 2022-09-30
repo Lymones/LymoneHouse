@@ -1,2 +1,5 @@
-﻿  SnakeData.cpp
+﻿  LymoneSnake.cpp
+  SnakeCheck.cpp
+D:\GitCode\LymoneTest\LymoneSnake\SnakeCheck.cpp(28,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
   LymoneSnake.vcxproj -> D:\GitCode\LymoneTest\LymoneSnake\x64\Debug\LymoneSnake.exe
