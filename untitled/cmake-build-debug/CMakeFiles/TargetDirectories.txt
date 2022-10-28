@@ -1,3 +1,0 @@
-D:/GitCode/LymoneTest/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-D:/GitCode/LymoneTest/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/GitCode/LymoneTest/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
