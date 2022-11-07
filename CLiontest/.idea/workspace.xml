@@ -18,73 +18,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50dc22c2-a265-471c-8978-9ac053671c48" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2f22255c6fc272d92169.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-12T14-34-04-0849.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonLab/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonLab/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1007.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1007.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/004.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/15.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/15.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命1名1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命1名1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名11.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名11.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名3-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名3-2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名31.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/未命名31.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d6f23d09b0777f62e6e0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d78e901266464fc7b569.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2b37aa7b2a2067e7bdb2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/index-2022-10-17T13-35-04-0314.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/target-untitled-Debug-7bd53de63beb25adddff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bc16df50c632c076cfb0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-m2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-m2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-su.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-su.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-szy1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-szy1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2-test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/ly01.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter4/ly01.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +86,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,6 +97,7 @@
       <updated>1666157674355</updated>
       <workItem from="1666157676169" duration="2087000" />
       <workItem from="1666448309891" duration="636000" />
+      <workItem from="1667628323858" duration="168000" />
     </task>
     <servers />
   </component>
