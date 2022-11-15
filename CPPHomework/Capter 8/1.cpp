@@ -132,9 +132,7 @@ public:
         {
             sum+=365;
             if(isLeapYear(i))
-            {
                sum++;
-            }
         }
         for(int i=1;i<month;i++)
         {
