@@ -1,3 +1,7 @@
+/*
+Warning!
+There is the shit HELL.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

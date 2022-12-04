@@ -1,28 +1,12 @@
 {
     "version": "0.2.0",
-    "configurations": [
-        
+    "configurations": [    
         {
-            "name": "(gdb) Launch", // 配置名称，将会在启动配置的下拉菜单中显示  
+            "name": "(gdb)Launch(ConsolePauser)", // 配置名称，将会在启动配置的下拉菜单中显示  
             "type": "cppdbg",
-            "request": "launch", // 请求配置类型，可以为launch（启动）或attach（附加）            
-            
-            //"program": "C:\\Windows\\System32\\cmd.exe",
-            //"args": ["/c .vscode\\ConsolePauser.exe ${fileDirname}\\exe\\${fileBasenameNoExtension}.exe"],
-             
+            "request": "launch", // 请求配置类型，可以为launch（启动）或attach（附加）                   
             "program": "C:\\Windows\\System32\\cmd.exe",
-            "args": [
-                "/C",
-                //"${fileDirname}\\exe\\${fileBasenameNoExtension}.exe",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "&",
-                "pause"
-            ], 
-            
-            /*
-            "program": "${fileDirname}/${fileBasenameNoExtension}.exe", // 将要进行调试的程序的路径  
-            "args": [], // 程序调试时传递给程序的命令行参数，一般设为空即可  
-            */
+            "args": ["/c ${workspaceFolder}\\.vscode\\ConsolePauser.exe ${fileDirname}\\${fileBasenameNoExtension}.exe"],
             "stopAtEntry": false, // 设为true时程序将暂停在程序入口处，一般设置为false
             "cwd": "${fileDirname}", // 调试程序时的工作目录
             "environment": [],
@@ -38,5 +22,33 @@
                 }
             ]
         }
+        ,
+        {
+            "name": "(gdb)Launch(cmd)", // 配置名称，将会在启动配置的下拉菜单中显示  
+            "type": "cppdbg",
+            "request": "launch", // 请求配置类型，可以为launch（启动）或attach（附加）                     
+            "program": "C:\\Windows\\System32\\cmd.exe",// 将要进行调试的程序的路径 
+            "args": [   // 程序调试时传递给程序的命令行参数，一般设为空即可
+                "/C",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "&",
+                "pause"
+            ], 
+            "stopAtEntry": false, // 设为true时程序将暂停在程序入口处，一般设置为false
+            "cwd": "${fileDirname}", // 调试程序时的工作目录
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Environment\\mingw64\\bin\\gdb.exe", // miDebugger的路径，注意这里要与MinGw的路径对应
+            "preLaunchTask": "g++ build",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+        
     ]
 }
