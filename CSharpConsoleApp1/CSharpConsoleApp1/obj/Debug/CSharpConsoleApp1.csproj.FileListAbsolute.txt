@@ -1,0 +1,8 @@
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\bin\Debug\CSharpConsoleApp1.exe.config
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\bin\Debug\CSharpConsoleApp1.exe
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\bin\Debug\CSharpConsoleApp1.pdb
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.csproj.AssemblyReference.cache
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.csproj.SuggestedBindingRedirects.cache
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.csproj.CoreCompileInputs.cache
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.exe
+I:\GitCode\LymoneTest\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.pdb
