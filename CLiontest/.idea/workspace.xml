@@ -19,41 +19,11 @@
   <component name="ChangeListManager">
     <list default="true" id="50dc22c2-a265-471c-8978-9ac053671c48" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CLiontest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CLiontest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 8/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CPPHomework/Capter 8/1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/FileContentIndex/93c58fb5-44c8-4e23-98e1-aec86c1632c9.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/FileContentIndex/read.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/Browse.VC.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/ipch/AutoPCH/1ea6ed8910dcd195/LYMONESNAKE.ipch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/ipch/AutoPCH/2b4231f4528810bd/SNAKECHECK.ipch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/ipch/AutoPCH/5cc2ad4247b2284d/SNAKEDATA.ipch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/ipch/AutoPCH/81e790f5de393cc7/SNAKEDRAW.ipch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/.vs/LymoneSnake/v17/ipch/AutoPCH/bf4199fe711ff81b/LYMONESNAKE.ipch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/LymoneSnake.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/LymoneSnake.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/LymoneSnake.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/LymoneSnake.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.Build.CppClean.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.exe.recipe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/CL.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/LymoneSnake.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/LymoneSnake.vcxproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/SnakeCheck.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/SnakeData.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/SnakeDraw.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/vc143.idb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LymoneSnake/x64/Debug/vc143.pdb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,20 +51,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CLiontest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLiontest" TARGET_NAME="CLiontest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLiontest" RUN_TARGET_NAME="CLiontest">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -114,6 +90,7 @@
       <workItem from="1667628323858" duration="168000" />
       <workItem from="1669643827693" duration="2248000" />
       <workItem from="1669658589083" duration="654000" />
+      <workItem from="1673458135850" duration="70000" />
     </task>
     <servers />
   </component>

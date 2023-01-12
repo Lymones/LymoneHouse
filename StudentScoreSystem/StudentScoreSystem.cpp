@@ -1,8 +1,8 @@
+#include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
-#include <stdbool.h>
 #include <string.h>
+#include <windows.h>
 
 //=====用于存储成绩数据的结构体和枚举=====
 
@@ -596,8 +596,8 @@ void CalcuMenu()
     char nameFunction[][50] = {
         "1、按录入顺序输出学生总成绩",
         "2、按照学科成绩顺序输出学生总成绩",
-        "3、输出3门课程低于平均分的学生个数",
-        "4、重新录入学生成绩(将覆盖现有记录)",
+        "3、输出3门课程低于平均分学生个数",
+        "4、重新录入学生成绩(覆盖现有记录)",
         "5、将录入的成绩保存为文件并退出",
         "6、直接退出学生成绩录入系统"};
     printf("已完成学生成绩录入\n");

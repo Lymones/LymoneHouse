@@ -1,4 +1,4 @@
-# Install script for directory: D:/GitCode/LymoneTest/CLiontest
+# Install script for directory: I:/GitCode/LymoneTest/CLiontest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/Software/CLion 2022.2.1/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/CLion 2022.3.1/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/GitCode/LymoneTest/CLiontest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "I:/GitCode/LymoneTest/CLiontest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

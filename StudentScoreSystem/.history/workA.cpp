@@ -1,16 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 class Score{
-protected:
-    double math,marx,c;
 public:
+    double math,marx,c;
     Score(double _math,double _marx,double _c):math(_math),marx(_marx),c(_c){};
     void input(double _math,double _marx,double _c){
         math=_math;
         marx=_marx;
         c=_c;
     }
-}
+};
 class Student{
 private:
     string studentNo;
@@ -23,7 +22,7 @@ public:
         :Usually(_math,_marx,_c),Finally(_math_,_marx_,_c_),studentNo(_no),name(_name){
             calculate();           
         }
-    coid input(string _no,string _name,double _math,double _math_,double _marx,double _marx_,double _c,double _c_){
+    void input(string _no,string _name,double _math,double _math_,double _marx,double _marx_,double _c,double _c_){
         Usually.input(_math,_marx,_c);
         Finally.input(_math_,_marx_,_c_);
         studentNo=_no;
@@ -45,7 +44,7 @@ public:
         Average.c/=studentNum;
         return;
     }
-    operator < (Student B){
+    bool operator < (Student B){
         return this->Total.c<B.Total.c;
     }
 }Data[10];
@@ -61,7 +60,7 @@ void typein(){
     double temp_math_,temp_marx_,temp_c_;
     printf("您需要录入 %d 名学生的信息，请按照以下顺序录入：",Student::studentNum);
     printf("学号 姓名 高数平时成绩 高数考试成绩 马克思平时成绩 马克思考试成绩 C语言平时成绩 C语言考试成绩");
-    for(int i = 0;i<studentNum;i++){
+    for(int i = 0;i<Student::studentNum;i++){
         cin>>temp_No>>temp_name>>temp_math>>temp_math_>>temp_marx>>temp_marx_>>temp_c>>temp_c_;
         Data[i].input(temp_No,temp_name,temp_math,temp_math_,temp_marx,temp_marx_,temp_c,temp_c_)
     }
