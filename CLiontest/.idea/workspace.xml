@@ -18,12 +18,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50dc22c2-a265-471c-8978-9ac053671c48" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../PythonLab/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CLiontest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CLiontest.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CLiontest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab1/01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab1/02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab1/03.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab1/04.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab1/05.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/0C-szy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/A-sy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/B2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/B3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/C-xjy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/D.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/E-sy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/E.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab4/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/B-new.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/D.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab5/E.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab6/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab6/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab6/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab7/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab7/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab7/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab7/D.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPClassWork/Lab7/E.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 3/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 3/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 3/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 3/4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/2-m2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/2-su.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/2-szy1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/2-test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 4/ly01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/1-lzc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/1-lzc2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/1-zkq.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/1-zzy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/3-sxz.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 5/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 6/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 6/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 6/3-scy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 6/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 7/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 7/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 8/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 8/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 9/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter 9/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter11/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter12/1-w.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Capter12/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/1121-2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/1121.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/sxz01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命1名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名3-2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPPHomework/Other/未命名31.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSharpConsoleApp1/CSharpConsoleApp1/bin/Debug/CSharpConsoleApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSharpConsoleApp1/CSharpConsoleApp1/bin/Debug/CSharpConsoleApp1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSharpConsoleApp1/CSharpConsoleApp1/obj/Debug/CSharpConsoleApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/1007.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/ioccc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/lukie01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/wlq1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/zhn221228.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/未命名2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTest/未命名3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeCreatCode/FindPrimeNumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/1119.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/114514caculate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/KetboardSimulator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/STL/vector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/Squeue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CppTest/Squeue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/Squeue.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/cin.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/std.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/template1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/template2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CppTest/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyXtest/x64/Debug/EasyXtest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EasyXtest/x64/Debug/EasyXtest.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LukieSaolei/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentScoreSystem/.history/cjxt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentScoreSystem/.history/cpro.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentScoreSystem/.history/workB.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentScoreSystem/StudentScoreSystem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSCodeCppConfig22.12.5.7z" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +168,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/GitCode/LymoneTest/CLiontest",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.keymap",
     "structure.view.defaults.are.configured": "true",
@@ -66,12 +176,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="CLiontest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLiontest" TARGET_NAME="CLiontest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLiontest" RUN_TARGET_NAME="CLiontest">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CLiontest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLiontest" TARGET_NAME="CLiontest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLiontest" RUN_TARGET_NAME="CLiontest">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -91,6 +201,7 @@
       <workItem from="1669643827693" duration="2248000" />
       <workItem from="1669658589083" duration="654000" />
       <workItem from="1673458135850" duration="70000" />
+      <workItem from="1677847637832" duration="552000" />
     </task>
     <servers />
   </component>

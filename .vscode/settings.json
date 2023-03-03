@@ -73,5 +73,6 @@
         "valarray": "cpp",
         "stdio.h": "c"
     },
+    "cmake.configureOnOpen": false,
     //"C_Cpp.errorSquiggles": "Disabled"   
 }
