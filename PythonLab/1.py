@@ -1,8 +1,7 @@
-i = 1
-while i <= 9:
-    j=1
-    while j <= i:
-        print(f"{i} x {j} = {i*j} ", end='')
-        j += 1
-    print()
-    i += 1
+a = [4,5,6,1,2,3]
+d = a
+print(d)
+b = a.sort()
+print(a,b)
+c = sorted(d)
+print(d,c)

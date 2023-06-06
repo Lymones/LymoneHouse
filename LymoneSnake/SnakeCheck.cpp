@@ -63,7 +63,7 @@ loop:
 /*¼üÅÌÊäÈë*/
 bool LSC::directionCheck()
 {
-	if (peekmessage(&m, EM_KEY))
+	if (peekmessage(&m, EX_KEY))
 	{
 		switch (m.message)
 		{

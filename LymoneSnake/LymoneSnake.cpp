@@ -9,8 +9,7 @@ ExMessage m;
 
 char Nextstep;
 /*Up-Down-Left-Right*/
-int times = 4;
-int delay = 100;
+int delay = 400;
 
 int snakelength=1;
 
@@ -58,7 +57,7 @@ int main()
     while (true)
     {
         //输入检定
-        for (int i = 0; i < times; i++)
+        //for (int i = 0; i < 4; i++)
         {
             if (LSC::directionCheck())
             {
@@ -67,7 +66,7 @@ int main()
             #ifdef DEBUG
             printf("%c", Nextstep);
             #endif // DEBUG
-            Sleep(10);
+            //Sleep(10);
         }
         #ifdef DEBUG
         printf("\n");
@@ -89,7 +88,7 @@ int main()
             //LSD::drawNet();
             LSD::drawMap();
         }
-        Sleep(delay*times);
+        Sleep(delay-snakelength*10);
     }//main while
 
 
