@@ -15,7 +15,7 @@ public:
         for (int j = 1; j < pat.length(); j++) {
             dp[j] = new int[256];
             for (int i = 0; i < 256; i++)
-                dp[j][i] = i == pat[j] ? j + 1 : dp[x][i];
+                dp[j][i] = (i == pat[j] ? j + 1 : dp[x][i]);
             x = dp[x][pat[j]];
         }
     }
