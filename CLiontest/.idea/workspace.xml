@@ -20,11 +20,8 @@
     <list default="true" id="50dc22c2-a265-471c-8978-9ac053671c48" name="变更" comment="变更">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CTest/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CTest/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1056/F.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1056/F.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1056/F2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1056/F2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1056/F3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1056/F3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1056/F4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1056/F4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1064/F-wzj.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1064/F-wzj.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSHomework/Contest1069/A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../DSHomework/Contest1069/A.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +92,7 @@
       <workItem from="1685798360955" duration="628000" />
       <workItem from="1687351369577" duration="54000" />
       <workItem from="1687351629390" duration="10000" />
+      <workItem from="1694449499327" duration="87000" />
     </task>
     <servers />
   </component>
